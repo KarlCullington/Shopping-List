@@ -11,6 +11,12 @@ body {
 .cloneLi {
   display:none;
 }
+.eb:hover{
+  cursor: pointer;
+}
+.cb:hover{
+  cursor:pointer;
+}
 ul {
   margin: 5;
   padding: 5;
